@@ -26,13 +26,17 @@ todas = ['Filmes','Jogos','Livros','Esportes']
 print('Todas as listas disponíveis até o momento são :',(todas))
 
 #Letra C
-#Não entendi a questão.
+print('O livro número zero é :', (livros[0]))
+print('O livro número um é :', (livros[1]))
+print('O livro número dois é :', (livros[2]))
+print('O livro número três é :', (livros[3]))
+print('O livro número quatro é :', (livros[4]))
 
 #Letra D
-print(esportes)
+print('Esportes disponíveis :',(esportes))
 print('O Esporte Tênis será removido.')
 del esportes[3]
-print(esportes)
+print('Esportes disponíveis : ',(esportes))
 
 #LetraE
 todas.insert(1,'Disciplina')

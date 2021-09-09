@@ -2,7 +2,7 @@
 <img src="logosatc.png" width=500 height=200>
 
 # Eu sou Felipe
-:computer: Curso: Curso técnico de informática. <br>
+:computer: Curso: 2º Fase Curso técnico de informática. <br>
 :bomb: Disciplina: Linguagem de programação.  <br>
 :spider_web: Ano : 2021
 
